@@ -14,8 +14,8 @@ body{
 
 
 header{
+    width: 100%;
     padding-top: 10px;
-    margin: 0%;
     background-image: linear-gradient(rgb(79, 147, 79), rgb(34, 64, 34));
     width: 100%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
