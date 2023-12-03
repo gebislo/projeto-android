@@ -110,7 +110,7 @@ div.youtube{
     background-color: rgb(18, 67, 18);
 
     padding: 10px;
-    padding-top:40px;
+    padding-top:25px;
     padding-bottom: 60%;
 
     margin-bottom: 30px;
@@ -119,6 +119,9 @@ div.youtube{
 div.youtube > iframe{
     position: absolute;
     left: 2%;
+    width: 90%;
+    height: 90%;
+    padding-left: 3%;
 }
 
 .janela{
